@@ -23,7 +23,7 @@ function namecheck()
     else{
         document.getElementById("nmlabel").style.display="none" 
         document.getElementById("nmlabel-01").style.display="none" 
-        document.getElementById("nmlabel-02").style.display="none"
+        
         return true
 
     }
